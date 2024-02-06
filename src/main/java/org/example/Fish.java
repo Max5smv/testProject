@@ -12,7 +12,7 @@ public class Fish {
     @Override
     public String toString() {
         return "Fish{" +
-                "name='" + name + '\'' +
+                "name='" +   name + '\'' +
                 ", weight=" + weight +
                 '}';
     }
