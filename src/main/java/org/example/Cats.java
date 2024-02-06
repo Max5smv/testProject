@@ -21,6 +21,6 @@ public class Cats {
     }
 
     public String getSurName() {
-        return surName;
+        return this.surName + " Update!!";
     }
 }
