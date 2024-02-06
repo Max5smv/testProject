@@ -19,4 +19,8 @@ public class Cats {
     public String getName() {
         return name;
     }
+
+    public String getSurName() {
+        return surName;
+    }
 }
