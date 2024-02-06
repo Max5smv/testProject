@@ -16,7 +16,7 @@ public class Book {
         Book myBook = new Book("Му-му", 12);
         myBook.Info();
         Cats cat = new Cats("Мурз", "Мурзилка", 4);
-        cat.Info();
+         cat.Info();
         System.out.println(cat.getName());
     }
 }
